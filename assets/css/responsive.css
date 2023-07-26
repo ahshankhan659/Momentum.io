@@ -1,0 +1,33 @@
+@media (max-width: 1400px) {
+    .section .col-12 h1{
+        font-size: 70px;
+    }
+    .section .col-12 p{
+        font-size: 30px
+    }
+}
+
+@media (max-width: 1167px) {
+    .desktop-header{
+        display: none;
+    }
+    .mob-header-btn{
+        display: block;
+    }
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 575px) {
+
+}
+
+@media (max-width: 467px) {
+
+}
